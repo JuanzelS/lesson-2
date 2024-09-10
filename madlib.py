@@ -2,12 +2,12 @@ def madlib():
     print("Let's create a fun story! Please provide the following words:")
 
     # Collect inputs from the user
-    name = input("James")
-    adjective = input("adventurous ")
-    animal = input("penguin ")
-    place = input("pool")
-    verb = input("swim ")
-    food = input("fish")
+    name = input("")
+    adjective = input(" ")
+    animal = input(" ")
+    place = input(" ")
+    verb = input(" ")
+    food = input(" ")
 
     # Create the story using an f-string
     story = (f"One day, {name} was walking through the {place} when they saw a very {adjective} {animal}. "
