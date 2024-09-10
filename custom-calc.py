@@ -2,9 +2,9 @@
     units = input("Input units (e.g., inches, cm, meters): ")
 
     # Get the height, width, and length as float inputs
-    height = float(input("10 "))
-    width = float(input("5"))
-    length = float(input("2"))
+    height = float(input(" "))
+    width = float(input(""))
+    length = float(input(""))
     
     # Calculate the volume
     volume = height * width * length
